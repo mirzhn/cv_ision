@@ -1,0 +1,206 @@
+{
+    "Blink Market": [
+        {
+            "job_title": "Data Engineer",
+            "date_range": "Jul 2023 - Present",
+            "duration_months": 12,
+            "location": "Limass",
+            "description": "Developing complex SQL solutions to enhance business analytics. Creating ETL processes to integrate and transform data from various sources. Managing real-time data streams for timely business insights. Leveraging cloud services for scalable storage and advanced analytics. Ensuring efficient application deployment and system performance monitoring. Building data marts to provide actionable insights and support business decision-making.",
+            "skills": [
+                "Docker",
+                "E-Commerce",
+                "Python",
+                "Prometheus",
+                "Skills:Apache Airflow",
+                "Apache Kafka",
+                "Kubernetes",
+                "Amazon Redshift",
+                "AWS",
+                "Ansible",
+                "Gitlab",
+                "Snowflake",
+                "Amazon S3"
+            ]
+        }
+    ],
+    "Spotware Systems": [
+        {
+            "job_title": "DB Developer",
+            "date_range": "Apr 2022 - Jul 2023",
+            "duration_months": 15,
+            "location": "Limassol, Cyprus · On-site",
+            "description": "Developing complex SQL code solutions. Optimizing database performance and storage architecture to ensure high availability, scalability, and reliability. Building and improving CI/CD processes to automate database testing, deployment, and maintenance.Developing and maintaining ETL processes. Developing data marts for the company's BI system.",
+            "skills": [
+                "Disaster Recovery",
+                "Adaptability",
+                "Kubernetes",
+                "Stress Management",
+                "SQL",
+                "ETL",
+                "liquibase",
+                "Database Administration",
+                "Cross-team Collaboration",
+                "Data Architecture",
+                "ELK",
+                "English",
+                "MongoDB",
+                "PgSQL",
+                "Problem Solving",
+                "Analytical Skills",
+                "Replication",
+                "Trading",
+                "Data Modeling",
+                "Skills:Jenkins",
+                "Git",
+                "PostgreSQL",
+                "Teamwork",
+                "Ansible",
+                "Bash"
+            ]
+        }
+    ],
+    "GoodsForecast": [
+        {
+            "job_title": "Engineering Team Lead",
+            "date_range": "Apr 2021 - Apr 2022",
+            "duration_months": 12,
+            "location": "Moscow City, Russia · On-site",
+            "description": "Led the integration team to deliver high-quality integration solutions for multiple projects. Managed integration project timelines, deliverables, and resources. Worked with stakeholders to define and implement data quality and validation processes.Designed and implemented technical practices such as CI/CD, automated testing, and code generation resulting in improved development efficiency and quality.",
+            "skills": [
+                "Leading Development Teams",
+                "C#",
+                "Retail Industry",
+                "Scrum",
+                "Python",
+                "Business Acumen",
+                "Powershell",
+                "Skills:Continuous Integration and Continuous Delivery (CI/CD)",
+                "Fast-Moving Consumer Goods (FMCG)",
+                "Data Modeling",
+                "ETL",
+                "Team Leadership",
+                "PostgreSQL",
+                "Git",
+                "Hiring",
+                "TSQL",
+                "Agile Methodologies",
+                "Data Architecture"
+            ]
+        }
+    ],
+    "DCore": [
+        {
+            "job_title": "Engineering Team Lead",
+            "date_range": "Oct 2019 - Apr 2021",
+            "duration_months": 18,
+            "location": "Moscow, Russia · On-site",
+            "description": "Leading the design and development of low-code ETL tool. Managing the development team, including training, coaching, and mentoring team members. Prioritizing and managing the team's workload to ensure that project timelines and deliverables were met. Providing technical leadership and guidance to the development team.",
+            "skills": [
+                "Scrum",
+                "Powershell",
+                "Skills:C#",
+                "Data Modeling",
+                "ETL",
+                "Team Leadership",
+                "Git",
+                "Gitlab",
+                "Agile Methodologies",
+                "Transact-SQL (T-SQL)",
+                "Data Architecture"
+            ]
+        }
+    ],
+    "AlfaStrakhovanie": [
+        {
+            "job_title": "Software Engineer",
+            "date_range": "Mar 2019 - Oct 2019",
+            "duration_months": 7,
+            "location": "Moscow, Russia · On-site",
+            "description": "Working on the application automating the accounting of the bank's.",
+            "skills": [
+                "FinTech",
+                "C#",
+                "Data Architecture",
+                "Data Modeling",
+                "ETL",
+                "Git",
+                "Skills:Transact-SQL (T-SQL)",
+                "windows form"
+            ]
+        }
+    ],
+    "Goods4Cast": [
+        {
+            "job_title": "ETL Developer",
+            "date_range": "Mar 2018 - Mar 2019",
+            "duration_months": 12,
+            "location": "Moscow, Russia",
+            "description": "Design and development of high-loaded integration systems. Analysis of the customer's IT infrastructure.Developing rules for collecting and cleaning data.",
+            "skills": [
+                "C#",
+                "BIML",
+                "Integration",
+                "Fast-Moving Consumer Goods (FMCG)",
+                "Skills:SQL Server Integration Services (SSIS)",
+                "Data Modeling",
+                "ETL",
+                "Git",
+                "Forecasting",
+                "Transact-SQL (T-SQL)",
+                "Data Architecture"
+            ]
+        }
+    ],
+    "ICS (Intelligent Corporate Solutions)": [
+        {
+            "job_title": "Data Warehouse Developer",
+            "date_range": "Oct 2016 - Mar 2018",
+            "duration_months": 17,
+            "location": "Moscow, Russia · On-site",
+            "description": "Designing and developing Data Warehouse solutions for storing and analyzing large volumes of data from multiple sources. Developing ETL processes.Working closely with stakeholders to understand their needs and requirements for data analysis and reporting.",
+            "skills": [
+                "SQL Server Analysis Services (SSAS)",
+                "Fast-Moving Consumer Goods (FMCG)",
+                "Skills:SQL Server Integration Services (SSIS)",
+                "Business Intelligence (BI)",
+                "Data Modeling",
+                "Git",
+                "Query Writing",
+                "Transact-SQL (T-SQL)"
+            ]
+        }
+    ],
+    "Stavropol State University": [
+        {
+            "job_title": "Software Engineer",
+            "date_range": "Mar 2014 - Sep 2016",
+            "duration_months": 30,
+            "location": "Stavropol, Russia · On-site",
+            "description": "Designing and developing applications to automate processes such as building curricula, scheduling, attendance monitoring, and creating an educational portal for students and teachers to interact.",
+            "skills": [
+                "MySQL",
+                "ASP.NET",
+                "Git",
+                "Skills:Transact-SQL (T-SQL)",
+                "Edtech"
+            ]
+        }
+    ],
+    "North-Caucasus Federal University": [
+        {
+            "job_title": "Technical Support Engineer",
+            "date_range": "Nov 2012 - Mar 2014",
+            "duration_months": 16,
+            "location": "Stavropol, Russia · On-site",
+            "description": "Installation and configuration of various operating systems and software packages, including troubleshooting and resolving related issues.Installation and configuration of computer hardware, such as desktops, laptops, servers, and peripherals.Network configuration. Team management, including leading and supervising teams, delegating tasks, providing guidance and support, and ensuring project goals and deadlines are met.",
+            "skills": [
+                "Software Installation",
+                "Team Leadership",
+                "Linux",
+                "Hardware Installation",
+                "Skills:Windows Server",
+                "Edtech"
+            ]
+        }
+    ]
+}

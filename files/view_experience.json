@@ -1,0 +1,368 @@
+[
+    {
+        "Skill": "Amazon Redshift",
+        "Duration": 12,
+        "Category": "Cloud",
+        "Grade": 4
+    },
+    {
+        "Skill": "AWS",
+        "Duration": 12,
+        "Category": "Cloud",
+        "Grade": 6
+    },
+    {
+        "Skill": "Snowflake",
+        "Duration": 12,
+        "Category": "Cloud",
+        "Grade": 6
+    },
+    {
+        "Skill": "Amazon S3",
+        "Duration": 12,
+        "Category": "Cloud",
+        "Grade": 8
+    },
+    {
+        "Skill": "Edtech",
+        "Duration": 34,
+        "Category": "Domain",
+        "Grade": 8
+    },
+    {
+        "Skill": "FMCG",
+        "Duration": 41,
+        "Category": "Domain",
+        "Grade": 7
+    },
+    {
+        "Skill": "E-Commerce",
+        "Duration": 30,
+        "Category": "Domain",
+        "Grade": 5
+    },
+    {
+        "Skill": "Betting",
+        "Duration": 12,
+        "Category": "Domain",
+        "Grade": 7
+    },
+    {
+        "Skill": "Forex",
+        "Duration": 32,
+        "Category": "Domain",
+        "Grade": 5
+    },
+    {
+        "Skill": "FinTech",
+        "Duration": 23,
+        "Category": "Domain",
+        "Grade": 5
+    },
+    {
+        "Skill": "Scrum",
+        "Duration": 30,
+        "Category": "Methodologies",
+        "Grade": 6
+    },
+    {
+        "Skill": "Agile Methodologies",
+        "Duration": 30,
+        "Category": "Methodologies",
+        "Grade": 6
+    },
+    {
+        "Skill": "Git",
+        "Duration": 111,
+        "Category": "Ops",
+        "Grade": 8
+    },
+    {
+        "Skill": "Gitlab",
+        "Duration": 30,
+        "Category": "Ops",
+        "Grade": 6
+    },
+    {
+        "Skill": "Kubernetes",
+        "Duration": 27,
+        "Category": "Ops",
+        "Grade": 5
+    },
+    {
+        "Skill": "Ansible",
+        "Duration": 27,
+        "Category": "Ops",
+        "Grade": 6
+    },
+    {
+        "Skill": "Liquibase",
+        "Duration": 15,
+        "Category": "Ops",
+        "Grade": 7
+    },
+    {
+        "Skill": "ELK",
+        "Duration": 15,
+        "Category": "Ops",
+        "Grade": 3
+    },
+    {
+        "Skill": "Jenkins",
+        "Duration": 15,
+        "Category": "Ops",
+        "Grade": 3
+    },
+    {
+        "Skill": "Docker",
+        "Duration": 12,
+        "Category": "Ops",
+        "Grade": 6
+    },
+    {
+        "Skill": "Prometheus",
+        "Duration": 12,
+        "Category": "Ops",
+        "Grade": 3
+    },
+    {
+        "Skill": "BIML",
+        "Duration": 12,
+        "Category": "Ops",
+        "Grade": 3
+    },
+    {
+        "Skill": "Data Modeling",
+        "Duration": 81,
+        "Category": "Other",
+        "Grade": 9
+    },
+    {
+        "Skill": "ETL",
+        "Duration": 64,
+        "Category": "Other",
+        "Grade": 9
+    },
+    {
+        "Skill": "Data Architecture",
+        "Duration": 64,
+        "Category": "Other",
+        "Grade": 9
+    },
+    {
+        "Skill": "Business Intelligence (BI)",
+        "Duration": 17,
+        "Category": "Other",
+        "Grade": 3
+    },
+    {
+        "Skill": "Disaster Recovery",
+        "Duration": 15,
+        "Category": "Other",
+        "Grade": 3
+    },
+    {
+        "Skill": "Analytical Skills",
+        "Duration": 15,
+        "Category": "Other",
+        "Grade": 3
+    },
+    {
+        "Skill": "Replication",
+        "Duration": 15,
+        "Category": "Other",
+        "Grade": 3
+    },
+    {
+        "Skill": "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Duration": 12,
+        "Category": "Other",
+        "Grade": 3
+    },
+    {
+        "Skill": "Integration",
+        "Duration": 12,
+        "Category": "Other",
+        "Grade": 3
+    },
+    {
+        "Skill": "C#",
+        "Duration": 49,
+        "Category": "Programming",
+        "Grade": 5
+    },
+    {
+        "Skill": "Powershell",
+        "Duration": 30,
+        "Category": "Programming",
+        "Grade": 6
+    },
+    {
+        "Skill": "Python",
+        "Duration": 24,
+        "Category": "Programming",
+        "Grade": 6
+    },
+    {
+        "Skill": "SQL",
+        "Duration": 15,
+        "Category": "Programming",
+        "Grade": 9
+    },
+    {
+        "Skill": "Bash",
+        "Duration": 15,
+        "Category": "Programming",
+        "Grade": 4
+    },
+    {
+        "Skill": "MySQL",
+        "Duration": 30,
+        "Category": "Server",
+        "Grade": 6
+    },
+    {
+        "Skill": "PostgreSQL",
+        "Duration": 27,
+        "Category": "Server",
+        "Grade": 8
+    },
+    {
+        "Skill": "MongoDB",
+        "Duration": 15,
+        "Category": "Server",
+        "Grade": 6
+    },
+    {
+        "Skill": "MSSQL",
+        "Duration": 50,
+        "Category": "Server",
+        "Grade": 8
+    },
+    {
+        "Skill": "Team Leadership",
+        "Duration": 46,
+        "Category": "Soft Skills",
+        "Grade": 9
+    },
+    {
+        "Skill": "Adaptability",
+        "Duration": 15,
+        "Category": "Soft Skills",
+        "Grade": 8
+    },
+    {
+        "Skill": "Problem Solving",
+        "Duration": 15,
+        "Category": "Soft Skills",
+        "Grade": 7
+    },
+    {
+        "Skill": "Teamwork",
+        "Duration": 15,
+        "Category": "Soft Skills",
+        "Grade": 8
+    },
+    {
+        "Skill": "Business Acumen",
+        "Duration": 12,
+        "Category": "Soft Skills",
+        "Grade": 6
+    },
+    {
+        "Skill": "Apache Airflow",
+        "Duration": 12,
+        "Category": "Tools",
+        "Grade": 6
+    },
+    {
+        "Skill": "Transact-SQL (T-SQL)",
+        "Duration": 84,
+        "Category": "Uncategorized",
+        "Grade": 9
+    },
+    {
+        "Skill": "ASP.NET",
+        "Duration": 30,
+        "Category": "Uncategorized",
+        "Grade": 6
+    },
+    {
+        "Skill": "Query Writing",
+        "Duration": 17,
+        "Category": "Uncategorized",
+        "Grade": 3
+    },
+    {
+        "Skill": "Software Installation",
+        "Duration": 16,
+        "Category": "Uncategorized",
+        "Grade": 3
+    },
+    {
+        "Skill": "Linux",
+        "Duration": 16,
+        "Category": "Uncategorized",
+        "Grade": 3
+    },
+    {
+        "Skill": "Hardware Installation",
+        "Duration": 16,
+        "Category": "Uncategorized",
+        "Grade": 3
+    },
+    {
+        "Skill": "Windows Server",
+        "Duration": 16,
+        "Category": "Uncategorized",
+        "Grade": 3
+    },
+    {
+        "Skill": "Database Administration",
+        "Duration": 15,
+        "Category": "Uncategorized",
+        "Grade": 3
+    },
+    {
+        "Skill": "English",
+        "Duration": 15,
+        "Category": "Uncategorized",
+        "Grade": 3
+    },
+    {
+        "Skill": "PgSQL",
+        "Duration": 15,
+        "Category": "Programming",
+        "Grade": 7
+    },
+    {
+        "Skill": "Apache Kafka",
+        "Duration": 12,
+        "Category": "Tools",
+        "Grade": 3
+    },
+    {
+        "Skill": "Hiring",
+        "Duration": 12,
+        "Category": "Uncategorized",
+        "Grade": 3
+    },
+    {
+        "Skill": "TSQL",
+        "Duration": 12,
+        "Category": "Programming",
+        "Grade": 8
+    },
+    {
+        "Skill": "SonarQube",
+        "Duration": 7,
+        "Category": "Ops",
+        "Grade": 5
+    },
+    {
+        "Skill": "Grafana",
+        "Duration": 7,
+        "Category": "Ops",
+        "Grade": 5
+    }
+]

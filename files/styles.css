@@ -1,0 +1,69 @@
+body {
+    background-color: #f0f0f0;  /* Light grey background */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;  /* Добавляем вертикальные отступы между рядами */
+}
+
+.chart-row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    gap: 20px; /* Добавляем горизонтальные отступы между карточками */
+}
+
+.chart {
+    flex: 1 1 30%;
+    max-width: 30%;
+    box-sizing: border-box;
+    justify-content: center; /* Центрируем содержимое дива */
+}
+
+.card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;  /* Уменьшить внутренние отступы */
+    margin: 0;  /* Убрать внешние отступы */
+}
+
+.chart div[id^="chart"] {
+    width: 100%;
+    height: calc(100% - 20px);
+}
+
+.chart-title {
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    font-family: 'Lato', sans-serif; 
+    color: #143214;
+}
+
+@media (max-width: 768px) {
+    .chart {
+        flex: 1 1 45%;
+        max-width: 45%;
+    }
+}
+
+@media (max-width: 480px) {
+    .chart {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
+.chart img {
+    width: 90%; /* Устанавливаем ширину изображения на 100% */
+    height: 300px; /* Автоматически подгоняем высоту изображения */
+    margin-left: 5%;
+}

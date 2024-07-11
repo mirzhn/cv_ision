@@ -1,0 +1,126 @@
+{
+    "Data": [
+        {
+            "skills": [
+                "ETL",
+                "Data Modeling",
+                "Data Architecture",
+                "Integration",
+                "Disaster Recovery",
+                "Replication",
+                "Analytical Skills",
+                "Business Intelligence (BI)"
+            ]
+        }
+    ],
+    "Server": [
+        {
+            "skills": [
+                "SQL Server Analysis Services (SSAS)",
+                "MongoDB",
+                "MSSQL",
+                "MySQL",
+                "PostgreSQL"
+            ]
+        }
+    ],
+    "Cloud": [
+        {
+            "skills": [
+                "AWS",
+                "Snowflake",
+                "Amazon Redshift",
+                "Amazon S3"
+            ]
+        }
+    ],
+    "Ops": [
+        {
+            "skills": [
+                "Docker",
+                "Jenkins",
+                "Gitlab",
+                "SonarQube",
+                "Kubernetes",
+                "Grafana",
+                "ELK",
+                "BIML",
+                "Git",
+                "Ansible",
+                "Liquibase",
+                "Prometheus"
+            ]
+        }
+    ],
+    "Programming": [
+        {
+            "skills": [
+                "Python",
+                "SQL",
+                "TSQL",
+                "PgSQL",
+                "Bash",
+                "Powershell",
+                "C#"
+            ]
+        }
+    ],
+    "Tools": [
+        {
+            "skills": [
+                "Apache Airflow",
+                "Apache Kafka",
+                "SQL Server Integration Services (SSIS)"
+            ]
+        }
+    ],
+    "Soft Skills": [
+        {
+            "skills": [
+                "Problem Solving",
+                "Teamwork",
+                "Adaptability",
+                "Stress Management",
+                "Team Leadership",
+                "Business Acumen",
+                "Cross-team Work",
+                "Leading Development Teams"
+            ]
+        }
+    ],
+    "Methodologies": [
+        {
+            "skills": [
+                "Scrum",
+                "Agile Methodologies"
+            ]
+        }
+    ],
+    "Other": [
+        {
+            "skills": [
+                "ETL",
+                "Data Modeling",
+                "Data Architecture",
+                "Integration",
+                "Disaster Recovery",
+                "Replication",
+                "Analytical Skills",
+                "Continuous Integration and Continuous Delivery (CI/CD)",
+                "Business Intelligence (BI)"
+            ]
+        }
+    ], 
+    "Domain": [
+        {
+            "skills": [
+                "E-Commerce",
+                "FMCG",
+                "Betting",
+                "FinTech",
+                "Forex",
+                "Edtech"
+            ]
+        }
+    ]
+}
